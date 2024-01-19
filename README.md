@@ -2,6 +2,11 @@
 
 ### This is the official website of IEDC EMEA college
 
+- This website is made using ReactJS
+- This website is hosted on GitHub Pages
+- This website is made with :heart: by IEDC EMEA Community
+- Check out our [website](https://iedc-emea.github.io/)
+  
 ## How to contribute
 - Fork this repository
 - Clone the repository
@@ -23,4 +28,4 @@
 - Voila! You're running the website locally
 - Star this repository if you had fun!
 
-### Made with :heart: by IEDC EMEA College
+### Made with :heart: by IEDC EMEA Community

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9874a1da.css",
+    "main.js": "./static/js/main.cbec9160.js",
+    "static/media/GovtKerala.png": "./static/media/GovtKerala.387ad2229701bb49c0f7.png",
+    "static/media/1.jpg": "./static/media/1.8cf19e773ee9c6f30cf5.jpg",
+    "static/media/hero.png": "./static/media/hero.152312987af103cc5d20.png",
+    "static/media/2.jpg": "./static/media/2.fc84343591697613070f.jpg",
+    "static/media/IEDC-Logo.png": "./static/media/IEDC-Logo.89df60258de87cb716e6.png",
+    "static/media/iedc-img.png": "./static/media/iedc-img.3d67d0f6b32f25f2e24d.png",
+    "static/media/KSM.png": "./static/media/KSM.bf7c4fc84132cc300e63.png",
+    "index.html": "./index.html",
+    "main.9874a1da.css.map": "./static/css/main.9874a1da.css.map",
+    "main.cbec9160.js.map": "./static/js/main.cbec9160.js.map"
+  },
+  "entrypoints": [
+    "./static/css/main.9874a1da.css",
+    "./static/js/main.cbec9160.js"
+  ]
+}
