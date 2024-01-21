@@ -20,7 +20,7 @@ function Faculty() {
                 alt="Avatar"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-              Lt Abdul Rasheed P
+              Dr. Abdul Muneer V
               </h3>
               <p>Principal</p>
             </div>
@@ -31,7 +31,7 @@ function Faculty() {
                 alt="Avatar"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-              Althaf T.K
+              Mr. MUHAMMED FAISAL T
               </h3>
               <p>Nodal Officer</p>
             </div>
