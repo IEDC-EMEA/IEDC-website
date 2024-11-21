@@ -20,7 +20,7 @@ function Faculty() {
                 alt="Avatar"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-              Dr. Abdul Muneer V
+              Dr. Riyad AM
               </h3>
               <p>Principal</p>
             </div>
